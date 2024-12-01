@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# You can install all of this libraries using pip install -r requirements.txt
