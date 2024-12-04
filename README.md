@@ -7,6 +7,12 @@ This project focuses on Water Quality predicting using machine learning.
 1. Clone the repository: `git clone https://github.com/chantharith-NY/data-science-project.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
+## If you have set up already, you could pull it:
+1. Fetch (gets all the change history of a tracked branch/repo.)
+- `git fetch origin`
+2. Merge (combines the current branch, with a specified branch)
+`git merge origin/main`
+
 ## Folder Structure
 - `data/`: Raw and processed data.
 - `notebooks/`: Jupyter notebooks for analysis.
