@@ -83,9 +83,10 @@ referencing==0.35.1
 requests==2.32.3
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
-rpds-py==0.22.1
+rpds-py==0.22.3
 scikit-learn==1.5.2
 scipy==1.14.1
+seaborn==0.13.2
 Send2Trash==1.8.3
 setuptools==75.6.0
 six==1.16.0
