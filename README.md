@@ -33,9 +33,13 @@ After installing the new packages, update the requirements.txt file so others ca
 4. Deactivate the Virtual Environment
 Once done, deactivate the virtual environment:
 `deactivate`
-5. Commit and Push Changes
+5. Commit and Push Changes the `requirements.txt`
 Make sure to commit and push the updated `requirements.txt` file to the repository so your teammates can install the new dependencies:
 - `git add requirements.txt`
 - `git commit -m "Update requirements.txt with new packages"`
 - `git push origin main`
-
+6. Commit and Push Changes the folder `venv`
+Make sure to commit and push the updated `venv` folder to the repository so your teammates can install the new dependencies:
+- `git add venv`
+- `git commit -m "Add venv folder to repository"`
+- `git push origin main`
