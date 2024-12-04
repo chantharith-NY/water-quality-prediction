@@ -43,3 +43,11 @@ Make sure to commit and push the updated `venv` folder to the repository so your
 - `git add venv`
 - `git commit -m "Add venv folder to repository"`
 - `git push origin main`
+
+## Update juperter notebook file into repo
+- Update notebook file for commit:
+`git add your_notebook.ipynb`
+- Commit the Changes:
+`git commit -m "Update Jupyter Notebook with new changes"`
+- Push the Changes:
+`git push origin main`
