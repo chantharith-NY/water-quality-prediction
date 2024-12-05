@@ -5,13 +5,22 @@ This project focuses on Water Quality predicting using machine learning.
 
 ## Setup
 1. Clone the repository: `git clone https://github.com/chantharith-NY/data-science-project.git`
-2. Install dependencies: `pip install -r requirements.txt`
+2. Create the virtual environment (If you had it move to part 3'): `python -m venv venv`
+3. Activate the venv:
+- Windows: `venv\Scripts\activate`
+- MacOS/Linux: `source venv/bin/activate`
+4. Install dependencies: `pip install -r requirements.txt`
+5. Deactivate: `deactivate`
+6. You'll have all the library in your venv and you can use it as kernel in notebook.
 
 ## If you have set up already, you could pull it:
 1. Fetch (gets all the change history of a tracked branch/repo.)
 - `git fetch origin`
 2. Merge (combines the current branch, with a specified branch)
 `git merge origin/main`
+** Note:
+You should go to the repo folder and use this: 
+`git pull`
 
 ## Folder Structure
 - `data/`: Raw and processed data.
@@ -25,11 +34,9 @@ This project focuses on Water Quality predicting using machine learning.
 4. Open a pull request.
 
 ## How to update virtual environment
-1. Activate the Virtual Environment
-- Windows:
-`venv\Scripts\activate`
-- MacOS/Linux:
-`source venv/bin/activate`
+1. Activate the venv:
+- MacOS: `source venv/bin/activate`
+- Windows: `venv\Scripts\activate`
 2. Install the New Packages
 Install the required packages using `pip`, for example:
 `pip install numpy`
@@ -43,11 +50,6 @@ Once done, deactivate the virtual environment:
 Make sure to commit and push the updated `requirements.txt` file to the repository so your teammates can install the new dependencies:
 - `git add requirements.txt`
 - `git commit -m "Update requirements.txt with new packages"`
-- `git push origin main`
-6. Commit and Push Changes the folder `venv`
-Make sure to commit and push the updated `venv` folder to the repository so your teammates can install the new dependencies:
-- `git add venv`
-- `git commit -m "Add venv folder to repository"`
 - `git push origin main`
 
 ## Update juperter notebook file into repo
