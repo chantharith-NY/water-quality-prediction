@@ -14,12 +14,10 @@ This project focuses on Water Quality predicting using machine learning.
 6. You'll have all the library in your venv and you can use it as kernel in notebook.
 
 ## If you have set up already, you could pull it:
-1. Fetch (gets all the change history of a tracked branch/repo.)
-- `git fetch origin`
-2. Merge (combines the current branch, with a specified branch)
-`git merge origin/main`
+1. Fetch (gets all the change history of a tracked branch/repo.): `git fetch origin`
+2. Merge (combines the current branch, with a specified branch): `git merge origin/main`
 
-** Note**:
+** Note **:
 You should go to the repo folder and use this: 
 `git pull`
 
