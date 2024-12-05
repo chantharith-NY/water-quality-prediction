@@ -8,3 +8,8 @@ __pycache__/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+# Ignore environment files
+.env
+
+# Ignore environment files
+.venv
