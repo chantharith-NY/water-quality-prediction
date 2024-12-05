@@ -18,7 +18,8 @@ This project focuses on Water Quality predicting using machine learning.
 - `git fetch origin`
 2. Merge (combines the current branch, with a specified branch)
 `git merge origin/main`
-** Note:
+
+** Note**:
 You should go to the repo folder and use this: 
 `git pull`
 
