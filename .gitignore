@@ -13,3 +13,5 @@ __pycache__/
 
 # Ignore environment files
 .venv
+# ignore vitual environment on my local machine
+project_venv/
